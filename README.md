@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working com java.
-- 🌱 I’m currently learning c++ com estrutura de dados e python com paradigmas de linguagem e big data.
+- 🌱 I'm currently learning c++ with data structure and python with language and big data paradigms.
 <!--
 **gmsilvera/gmsilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
