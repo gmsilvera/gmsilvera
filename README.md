@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working com java.
+- 🔭 I’m currently working with java and fxml.
 - 🌱 I am currently studying c++ and python.
 <!--
 **gmsilvera/gmsilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
