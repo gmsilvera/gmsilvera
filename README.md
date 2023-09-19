@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working with java and fxml.
-- 🌱 I am currently studying c++ and python.
+- 🌱 I am currently studying python with SQLite, Tkinter, Flask.
 <!--
 **gmsilvera/gmsilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
